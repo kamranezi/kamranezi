@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamranezi
-- 👀 'm interested in websites in Python, REST, API
+- 👀 I'm interested in websites in Python, REST, API
 - 🌱 I'm currently learning how to create pages in Flask
 - 💞️ I invite you to cooperate
 - 📫 How to contact me: https://t.me/kamranezi 
